@@ -12,3 +12,4 @@
 999999999
 >>>>>>> qqq
 Creating a new branch is quick and simple
+test --no-ff
